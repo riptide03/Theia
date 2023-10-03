@@ -1,0 +1,1 @@
+I propose a new virtual assistant tool to aid users in completing everyday tasks on their computing devices.
